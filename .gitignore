@@ -1,0 +1,27 @@
+CompiledAssemblies*
+Data*
+Default Profiles*
+Dungeon Scripts*
+Logs*
+Honorbuddy.exe
+Honorbuddy.xml
+Settings/*
+System.*
+Tripper.*
+Spells.bin
+de-DE*
+fasmdll*
+fr-*
+ru-*
+tr/*
+zh-Hans*
+Bots/Combat
+Bots/RaidBot
+Cache
+Changelog*
+ForceMail.xml
+GlobalStuckBlackspots*
+IronPython*
+*AutoEquip2*
+Quest Behaviors*
+RemoteASMNative*
